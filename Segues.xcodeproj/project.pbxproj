@@ -12,6 +12,7 @@
 		9E1B0A9A1F5E8CAA0085D276 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E1B0A981F5E8CAA0085D276 /* Main.storyboard */; };
 		9E1B0A9C1F5E8CAA0085D276 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E1B0A9B1F5E8CAA0085D276 /* Assets.xcassets */; };
 		9E1B0A9F1F5E8CAA0085D276 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E1B0A9D1F5E8CAA0085D276 /* LaunchScreen.storyboard */; };
+		9E1B0AA71F5E90970085D276 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E1B0AA61F5E90970085D276 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9E1B0A9B1F5E8CAA0085D276 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E1B0A9E1F5E8CAA0085D276 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E1B0AA01F5E8CAA0085D276 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E1B0AA61F5E90970085D276 /* DetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9E1B0A941F5E8CAA0085D276 /* AppDelegate.swift */,
 				9E1B0A961F5E8CAA0085D276 /* ViewController.swift */,
 				9E1B0A981F5E8CAA0085D276 /* Main.storyboard */,
+				9E1B0AA61F5E90970085D276 /* DetailsViewController.swift */,
 				9E1B0A9B1F5E8CAA0085D276 /* Assets.xcassets */,
 				9E1B0A9D1F5E8CAA0085D276 /* LaunchScreen.storyboard */,
 				9E1B0AA01F5E8CAA0085D276 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				9E1B0A971F5E8CAA0085D276 /* ViewController.swift in Sources */,
 				9E1B0A951F5E8CAA0085D276 /* AppDelegate.swift in Sources */,
+				9E1B0AA71F5E90970085D276 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
