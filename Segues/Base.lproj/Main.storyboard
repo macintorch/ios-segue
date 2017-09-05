@@ -34,7 +34,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <segue destination="6lQ-cN-56N" kind="show" id="U7t-LI-q6G"/>
+                                            <segue destination="6lQ-cN-56N" kind="show" identifier="toDetailsVC" id="U7t-LI-q6G"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
